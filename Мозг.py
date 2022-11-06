@@ -6,7 +6,7 @@ from .. import loader, utils
 class МозгMod(loader.Module):
     """мозг"""
 
-    strings = {"name": "мозг"}
+    strings = {"name": "Мега мозг"}
 
     @loader.command()
     async def мозгcmd(self, message: Message):
@@ -21,7 +21,7 @@ class МозгMod(loader.Module):
         if message.out:
             await message.delete()
             
-# meta developer: @HPV_MODULES_VIP
+# meta developer: @HPV_MODULES_VIP, @AstroModulesMini
 # 
 #
 # This module was created by the
