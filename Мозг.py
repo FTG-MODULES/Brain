@@ -21,7 +21,7 @@ class МозгMod(loader.Module):
         if message.out:
             await message.delete()
             
-# meta developer: @AstroModulesMini
+# meta developer: @HPV_MODULES_VIP
 # 
 #
 # This module was created by the
